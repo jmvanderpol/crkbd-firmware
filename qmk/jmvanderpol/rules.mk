@@ -1,0 +1,8 @@
+CONVERT_TO = BLOK
+WS2812_DRIVER = vendor
+SERIAL_DRIVER = vendor
+
+MOUSEKEY_ENABLE = yes    # Mouse keys
+OLED_ENABLE     = yes
+OLED_DRIVER     = SSD1306
+LTO_ENABLE      = yes
